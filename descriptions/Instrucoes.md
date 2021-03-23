@@ -8,8 +8,8 @@
 ## Configurando
   * **Repositório para clonagem**
     ```
-    $ git clone https://github.com/Guysanches/Name
-    $ cd Name
+    $ git clone https://github.com/Guysanches/mobile_challenger
+    $ cd \mobile_challenger
     ```
 
   * **Instalando dependências**
