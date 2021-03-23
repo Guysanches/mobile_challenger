@@ -1,4 +1,4 @@
-# Instalação
+# Instruções
 
 ## Dependência do Projeto
   * **Flutter**
