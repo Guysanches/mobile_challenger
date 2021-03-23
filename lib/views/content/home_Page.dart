@@ -123,7 +123,9 @@ class _HomePageState extends State<HomePage> {
         kQuestionResultSearch.clear();
       });
     }
-    this.kSearch = !this.kSearch;
+    setState(() {
+      this.kSearch = !this.kSearch;
+    });
   }
 
   bool kSearch = false;
